@@ -8,7 +8,7 @@
 * O banco de dados para testes pode ser encontrado aqui mesmo, na pasta database
 * O trabalho deverá ser entregue (commit e push no seu repositório) até o dia **6 de Julho de 2017**.
 
-##Conceitos
+## Conceitos
 
 * Hidratação é o processo de receber uma estrutura de dados (tipicamente um array) e utilizá-la para inserir valores em um objeto. A principal dica é de que haja uma relação entre o array de dados e os objetos, ou seja, cada índice do array corresponda ao nome de um atributo do objeto.
 
